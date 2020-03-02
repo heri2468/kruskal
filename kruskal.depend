@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583163490 source:c:\users\ritesh\desktop\github\kruskal\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
